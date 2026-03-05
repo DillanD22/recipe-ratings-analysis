@@ -1,2 +1,2 @@
-# recipe-ratings-analysis
-This analysis was done using a dataset of over 83,000 recipe ratings as part of a project for the course Data Science 80 at University of California San Diego.
+# Recipe Ratings and Nutritional Content Analysis
+This analysis was done using a dataset of over 83,000 recipe ratings as part of a project for the course: Data Science 80 at University of California San Diego. Recipes tagged as healthy by raters were compared to ratings without healthy tags, in order to better explore differences in their nutrional makeups and how they may influence user ratings. The main focus was on using the nutritional features (calories, sugar (PDV), protein (PDV), etc.) and structural features (minutes - recipe timing, n_steps - number of steps in recipes, n_ingredients - number of ingredients in recipe) to predict the target variable,  average_ratings of recipes. 
